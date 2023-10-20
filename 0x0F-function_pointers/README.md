@@ -1,1 +1,0 @@
-learning function pointers
